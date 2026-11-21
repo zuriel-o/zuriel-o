@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+This is my school account
+This is my [main account](https://github.com/zcute1)
+Also check out my [portfolio website!](www.teniolazurielolusilas.com)
 <!--
 **zuriel-o/zuriel-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
