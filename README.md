@@ -4,7 +4,7 @@ This is my [main account](https://github.com/zcute1) <br>
 Also check out my [portfolio website!](https://teniolazurielolusilas.com)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=zcute1&show_icons=true&theme=tokyonight&title_color=df95bd&icon_color=df95bd&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=zuriel-o&show_icons=true&theme=tokyonight&title_color=df95bd&icon_color=df95bd&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=zcute1&layout=compact&theme=tokyonight&title_color=df95bd&icon_color=df95bd&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
