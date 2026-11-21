@@ -6,7 +6,7 @@ Also check out my [portfolio website!](https://teniolazurielolusilas.com)
 ### 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=zuriel-o&show_icons=true&theme=tokyonight&title_color=df95bd&icon_color=df95bd&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=zuriel-o&layout=compact&theme=tokyonight&title_color=df95bd&icon_color=df95bd&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <!-- <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=zuriel-o&layout=compact&theme=tokyonight&title_color=df95bd&icon_color=df95bd&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" /> -->
 </p>
 
 ### 📈 Contribution Graph
