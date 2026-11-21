@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is my school account
+This is my school account <br>
 This is my [main account](https://github.com/zcute1)
 Also check out my [portfolio website!](www.teniolazurielolusilas.com)
 <!--
